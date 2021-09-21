@@ -5,9 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/1 Friend Farm.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 81bb3a62020aa3f41baa551f69f4abc8, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f5a690a04adb3784891745b95cf1faef, type: 2}
